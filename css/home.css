@@ -1,0 +1,15 @@
+
+.link {
+	margin-top: 100px;
+	margin-left: 35%;
+}
+
+.link a {
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+
+.link a:hover{
+	color: #C1C1C1;
+}
